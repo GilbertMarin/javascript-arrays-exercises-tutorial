@@ -31,3 +31,5 @@ function generateHTMLFromArray(array){
 
 console.log(generateHTMLFromArray(allColors));
 
+
+
